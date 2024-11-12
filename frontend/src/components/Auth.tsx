@@ -1,4 +1,4 @@
-import { ChangeEvent, useState } from "react";
+import {  useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { SignupInputType, LabelledInputType } from "../types";
 import axios from "axios";

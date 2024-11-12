@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import { Signup } from './pages/SignUp'
-import { Signin } from './pages/SignIn'
+import { Signup } from './pages/Signup'
+import { Signin } from './pages/Signin'
 import { Blog } from './pages/Blog'
 import {Home} from './pages/Home';
 import { Blogs } from './pages/Blogs';
